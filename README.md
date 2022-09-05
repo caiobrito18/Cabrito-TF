@@ -2,7 +2,7 @@
 - 👀 I’m interested in getting experience and improving my coding skills 😊
 - 🌱 I’m currently learning Js, React, React-Native, Ts, Spring and Java. 
 - 💞️ I’m looking to collaborate on Web projects and Robotics competitions 
-- 📫 How to reach me ✉pro.caio18@gmail.com, Instagram:@caiopbrito18, LinkedIn:https://www.linkedin.com/in/caio-de-paula-brito-902b891b2/
-- 💻 Currently I work using React.js with Typescript, React-Native, and Spring.
-- Now I'm a proud former member of the FLL team 💙Gametech💙#10616💙 and currently member of the FTC team 💛Geartech💛#16054💛 from Goiânia, Goiás, willing to persue my dream of being a developer
+- 📫 How to reach me: ✉pro.caio18@gmail.com, Instagram:@caiopbrito18, LinkedIn:https://www.linkedin.com/in/caio-de-paula-brito-902b891b2/
+- 💻 Currently I work using React.js with Typescript, React-Native, and NodeJS.
+- Now I'm a proud former member of the FLL team 💙Gametech💙#10616💙 and of the FTC team 💛Geartech💛#16054💛 from Goiânia, Goiás, willing to persue my dream of being a developer
 - and moving to Canada🇨🇦.
